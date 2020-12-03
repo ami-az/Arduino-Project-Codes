@@ -1,4 +1,4 @@
-//by Muhammad Nazmi bin Abd Zaki 2016
+//By ami-az.github.io 2019
 / GSM DEFINE
 #include <GPRS_Shield_Arduino.h>
 #include <SoftwareSerial.h>
