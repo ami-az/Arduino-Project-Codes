@@ -1,4 +1,4 @@
-By ami-az.github.io 2019
+//By ami-az.github.io 2019
 
 #include "heltec.h"
 #include "images.h"
